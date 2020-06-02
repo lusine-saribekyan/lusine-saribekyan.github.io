@@ -1,0 +1,906 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+     background-color: E5E5E5;
+ }
+ 
+   
+ div.uiux-img1{
+     width: 1920px;
+     height: 970px;
+     left: 0px;
+     top: 0px;
+     position: absolute;
+     background: url(uiux.jpg) ;
+     display: flex;
+     flex-direction: column-reverse;
+ }
+ 
+ .uiux-Title1{
+ position: absolute;
+ width: 1006px;
+ height: 87px;
+ left: 224px;
+ top: 329px;
+ font-size: 60px;
+ line-height: 87px;
+ color: #413B43;
+ font-family: secular One;
+ cursor: default; 
+ font-weight: bold;
+ }
+ 
+ .uiux-input1{
+ position: absolute;
+ width: 322.63px;
+ height: 60px;
+ left: 224px;
+ top: 581px;
+ font-size: 24px;
+ 
+ border: 2px solid #8DD301;
+ box-sizing: border-box;
+ border-radius: 10px;
+ }
+    
+ .uiux-Lorem-ipsum1{
+    position: absolute;
+ width: 657.36px;
+ height: 108px;
+ left: 224px;
+ top: 437px;
+ font-size: 24px;
+ line-height: 36px;
+ color: #413B43;
+ cursor: default;
+ }
+ 
+ div.logo1{
+     position: absolute;
+     height:140px ;
+     width: 1920px;
+     background: #413B43;
+     left: 0px;
+     top: 0px;
+     cursor: default; 
+     
+ }
+ 
+ div.logo1 div.logoimg1{
+     position: absolute;
+     width: 134px;
+     height: 122px;
+     left: 253px;
+     top: 7px;
+    
+ }
+ 
+ div.logo1 div.logoHome1{
+     position: absolute;
+     height:40.32px ;
+     width: 65px;
+     left: 683px;
+     top: 57.6px;
+     color: #FFFFFF; 
+     font-size: 24px;
+     
+ }
+ 
+ div.logo1 div.logoPortfolio1{
+     position: absolute;
+     width: 93px;
+     height: 40.32px;
+     left: 818px;
+     top: 57.6px;
+     color: #FFFFFF;
+     font-size: 24px;
+     
+ }
+ div.logo1 div.logoTestimonials1{
+     position: absolute;
+     width: 138px;
+     height: 40.32px;
+     left: 981px;
+     top: 57.6px;
+     color: #FFFFFF;
+     font-size: 24px;
+    
+ }
+ 
+ div.logo1 div.logoServices1{
+     position: absolute;
+     width: 91px;
+     height: 40.32px;
+     left: 1189px;
+     top: 57.6px;
+     color: #FFFFFF;
+     font-size: 24px;
+     
+ 
+ }
+  div.logo1 div.logoSupporters1{
+     position: absolute;
+     width: 118px;
+     height: 40.32px;
+     left: 1350px;
+     top: 57.6px;
+     color: #FFFFFF;
+     font-size: 24px;
+    
+ }
+  div.logo1 div.logoAbout-us1{
+     position: absolute;
+     width: 96px;
+     height: 40.32px;
+     left: 1538px;
+     top: 57.6px;
+     color: #FFFFFF;
+     font-size: 24px;
+     
+ }
+ 
+  div.logo1 div.logoContact-us1{
+     position: absolute;
+     width: 116px;
+     height: 40.32px;
+     left: 1704px;
+     top: 57.6px;
+     color: #FFFFFF;
+     font-size: 24px;
+    
+ }
+ 
+ 
+ .happy{
+    width: 50px;
+    height: 50px;
+    top: 300px;
+    left: 400px;
+    background-color: black;
+    
+ }
+ 
+ .portfolio-title{
+ position: absolute;
+ width: 248px;
+ height: 464px;
+ left: 200px;
+ top: 1042px;
+ background: linear-gradient(180deg, rgba(248, 189, 69, 0) 0%, #F8BD45 58.33%);
+ }
+ 
+ 
+ .portfolio-text{
+     position: absolute;
+     width: 1282px;
+     height: 180px;
+     left: 232px;
+     top: 1089px;
+     display: grid;
+     grid-template-rows: 100px;
+     
+     
+ }
+ 
+ .portfolio-img1{
+ position: absolute;
+ width: 975px;
+ height: 623px;
+ left: 1px;
+ top: 1316px;
+ }
+ 
+ .portfolio-rectangle{
+ position: absolute;
+ width: 945px;
+ height: 623px;
+ left: 975px;
+ top: 1314px;
+ background: #413B43;
+ border: 1px solid #000000;
+ box-sizing: border-box;
+ }
+ 
+ .portfolio-Yeva{
+ position: absolute;
+ width: 557px;
+ height: 87px;
+ left: 1069px;
+ top: 1398px;
+ font-size: 60px;
+ line-height: 87px;
+ color: #F4AB82;
+ }
+ 
+ .portfolio-Lorem-ipsum1{
+ position: absolute;
+ width: 621px;
+ height: 252px;
+ left: 1069px;
+ top: 1506px;
+ font-weight: 300;
+ font-size: 24px;
+ line-height: 36px;
+ }
+ 
+ .portfolio-input1{
+ position: absolute;
+ width: 320px;
+ height: 60px;
+ left: 1070px;
+ top: 1794px;
+ font-size: 24px;
+ 
+ background: #0055FF;
+ border-radius: 10px;
+ }
+ 
+  .testimonials-title{
+    position: absolute;
+    width: 248px;
+    height: 897px;
+    left: 200px;
+    top: 2010px;
+    
+    background: linear-gradient(180deg, rgba(248, 189, 69, 0) 0%, #F8BD45 28.65%);
+    grid-template-rows:20px ;
+ 
+  }
+  .testimonials-text{
+    position: absolute;
+    left: 11.98%;
+    right: 65.78%;
+    top: 11.88%;
+    bottom: 80.89%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    
+    
+    color: #000000;}
+ 
+  .testimonials-lorem{
+    position: absolute;
+    left: 11.98%;
+    right: 21.25%;
+    top: 23.03%;
+    bottom: 66.55%;
+    width: 470%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    
+    line-height: 48px;
+  }
+ 
+  .testimonials-square{
+    position: absolute;
+    left: 11.93%;
+    top: 34.05%;
+    height: 580px;
+    width: 400px;
+ 
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    border: 2px solid #B0D136;
+    box-sizing: border-box;}
+ 
+  .testimonials-squareimg{
+    position: absolute;
+    left: 17.71%;
+    right: 68.33%;
+    top: 5.6%;
+    height: 10px;
+    width:10px ;
+ }
+ 
+  .testimonials-squaretitle{
+    position: absolute;
+    left: 18.44%;
+    top: 54.87%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+ }
+ 
+ 
+  .testimonials-squaretext{
+    position: absolute;
+    left: 1.39%;
+    width: 370px;
+    top: 63.96%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+  }
+ 
+  .testimonials-square1{
+    position: absolute;
+    left: 190.81%;
+    top: 34.05%;
+    height: 580px;
+    width: 400px;
+    
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    border: 2px solid #B0D136;
+    box-sizing: border-box;
+  }
+ 
+  .testimonials-squareimg1{
+    position: absolute;
+    left: 17.71%;
+    right: 43.07%;
+    bottom: 61.46%;
+    top: 5.6%;
+    height: 10px;
+    width:10px ;
+  }
+  .testimonials-squaretitle1{
+    position: absolute;
+    left: 15.44%;
+    top: 54.87%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+  }
+ 
+  .testimonials-squaretext1{
+    position: absolute;
+    left: 1.39%;
+    width: 370px;
+    top: 63.96%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+  }
+ 
+  .testimonials-square2{
+    position: absolute;
+    left: 370.81%;
+    top: 34.05%;
+    height: 580px;
+    width: 400px;
+    
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    border: 2px solid #B0D136;
+    box-sizing: border-box;
+  }
+ 
+  .testimonials-squareimg2{
+    position: absolute;
+    left: 17.71%;
+    right: 43.07%;
+    bottom: 61.46%;
+    top: 5.6%;
+    height: 10px;
+    width:10px ;
+  }
+  .testimonials-squaretitle2{
+    position: absolute;
+    left: 20.44%;
+    top: 54.87%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    color: #000000;
+  }
+ 
+  .testimonials-squaretext2{
+    position: absolute;
+    left: 1.39%;
+    width: 370px;
+    top: 63.96%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+  }
+ 
+ 
+  .Services-Title{
+     position: absolute;
+     width: 248px;
+     height: 897px;
+     left: 200px;
+     top: 2976px;
+ 
+ background: linear-gradient(180deg, rgba(248, 189, 69, 0) 0%, #FECB63 17.19%); 
+ }
+ 
+  .Services-text{
+     position: absolute;
+     width: 1282px;
+     height: 180px;
+     left: 230px;
+     top: 3023px;
+     display: grid;
+     grid-template-rows: 100px; 
+  }
+ 
+  .Services-rectagle1{
+     position: absolute;
+     width: 945px;
+     height: 623px;
+     left: 0px;
+     top: 3250px;
+     
+     background: #413B43;
+     border: 1px solid #000000;
+     box-sizing: border-box; 
+  }
+ 
+  .Services-rectagle-1text{
+     position: absolute;
+     width: 683px;
+     height: 323px;
+     left: 232px;
+     top: 3393px;
+     color: E8FFAF;
+     display: grid;
+     grid-template-rows: 100px; 
+  }
+ 
+   .Services-img-girl{
+     position: absolute;
+     width: 975px;
+     height: 623px;
+     left: 945px;
+     top: 3250px;
+  } 
+ 
+  
+  .supporters-title{
+     position: absolute;
+     width: 248px;
+     height: 385px;
+     left: 200px;
+     top: 3836px;
+     
+     background: linear-gradient(180deg, #F8BD45 23.96%, rgba(255, 255, 255, 0) 100%);
+  } 
+ 
+   .supporters-text{
+     position: absolute;
+     width: 1274px;
+     height: 168px;
+     left: 230px;
+     top: 4003px;
+     display: grid;
+     grid-template-rows: 100px; 
+  }
+ 
+   .supporters-img{
+     position: absolute;
+     width: 1416.46px;
+     height: 110.18px;
+     left: 274px;
+     top: 4272.82px;
+     display: flex;
+     justify-content: center;
+     
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  } 
+ 
+  .About-us-title{
+     position: absolute;
+     width: 248px;
+     height: 1245px;
+     left: 200px;
+     top: 4456px;
+     background: linear-gradient(180deg, #FFFFFF 2.08%, #F8BD45 17.19%, #F8BD45 76.04%, #FFFFFF 96.88%), linear-gradient(180deg, #F8BD45 0%, rgba(52, 47, 37, 0) 33.85%);
+  }
+ 
+  .About-us-text{
+     position: absolute;
+     width: 256px;
+     height: 87px;
+     left: 230px;
+     top: 4496px;
+     
+     font-family: Secular One;
+     font-size: 60px;
+     line-height: 87px;
+     text-transform: capitalize;
+     font-weight: bold;
+     color: #000000;
+  }
+  .About-us-lorem{
+     position: absolute;
+     width: 1282px;
+     height: 72px;
+     left: 230px;
+     top: 4609px;
+     
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 24px;
+     line-height: 36px;
+     
+     
+     
+     color: #000000;
+  }
+ 
+  .About-us-img{
+     position: absolute;
+     width: 975px;
+     height: 623px;
+     left: 0px;
+     top: 4727px;
+  }
+ 
+  .About-us-rectagle{
+     position: absolute;
+     width: 945px;
+     height: 623px;
+     left: 975px;
+     top: 4727px;
+     
+     background: #413B43;
+  }
+ 
+  .rectagle-title{
+     position: absolute;
+ width: 387.44px;
+ height: 87px;
+ left: 1069px;
+ top: 4806px;
+ 
+ font-family: Secular One;
+ font-style: normal;
+ font-weight: normal; 
+ font-size: 60px;
+ line-height: 87px;
+ text-transform: capitalize;
+ 
+ color: #F8BD45;
+ 
+     
+  }
+ 
+  .rectagle-text{
+     position: absolute;
+     width: 621px;
+     height: 360px;
+     left: 1069px;
+     top: 4914px;
+     
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: 300;
+     font-size: 24px;
+     line-height: 36px;
+     color: #FFFFFF;
+  }
+ 
+  .contact-us-title{
+     position: absolute;
+     width: 302px;
+     height: 87px;
+     left: 230px;
+     top: 5458px;
+     font-weight: bold;
+     font-family: Secular One;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 60px;
+     line-height: 87px;
+     text-transform: capitalize;
+     
+     color: #000000;
+     
+  }
+ 
+  .contact-us-lorem{
+     position: absolute;
+     width: 1282px;
+     height: 72px;
+     left: 230px;
+     top: 5572px;
+     
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 24px;
+     line-height: 36px;
+    justify-content: center;
+     
+     
+     color: #000000;
+  }
+ 
+ 
+  .rectagle-message{
+     position: absolute;
+     width: 1460px;
+     height: 257px;
+     left: 230px;
+     top: 5844px;
+     
+     
+     
+     border: 4px solid #999999;
+     border-radius: 10px;
+  }
+ 
+  .contact-us-input1{
+     position: absolute;
+     width: 186px;
+     height: 30px;
+     left: 246px;
+     top: 5763px;
+     font-family: GHEA Grapalat;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 16px;
+     line-height: 25px;
+     display: flex;
+     align-items: center;
+     pointer-events: none;
+     border: none;
+     background-color: E5E5E5;
+     border-bottom: 2px solid  #999999; width: 467px;
+  }
+ 
+  .contact-us-input2{
+     position: absolute;
+     width: 186px;
+     height: 30px;
+     left: 746px;
+     top: 5763px;
+     pointer-events: none;
+     font-family: GHEA Grapalat;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 16px;
+     line-height: 25px;
+     display: flex;
+     align-items: center;
+     border: none;
+     background-color: E5E5E5;
+     border-bottom: 2px solid  #999999; width: 467px;
+  }
+ 
+  .contact-us-input3{
+     position: absolute;
+     width: 186px;
+     height: 30px;
+     left: 1245px;
+     top: 5763px;
+     pointer-events: none;
+     font-family: GHEA Grapalat;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 16px;
+     line-height: 25px;
+     display: flex;
+     align-items: center;
+     border: none;
+     background-color: E5E5E5;
+     border-bottom: 2px solid  #999999; width: 467px;
+  }
+ 
+  .contact-us-input4{
+    position: absolute;
+    width: 342px;
+    height: 60px;
+    left: 1347px;
+    top: 6131px;
+    font-size: 24px;
+    background: #F8BD45;
+    border: 2px solid #413B43;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+ 
+  .rectagle10{
+    position: absolute;
+    width: 1920px;
+    height: 424px;
+    left: 0px;
+    top: 6309px;
+    background: #413B43;
+    display: flex;
+    justify-content: center;
+    
+  }
+ 
+  .rectagle10-1{
+    position: absolute;
+    width: 91px;
+    height: 28px;
+     left: 353px; 
+    top: 6446px;
+    
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 300;
+   line-height: 28px;    
+   display: flex;
+    justify-content: center;
+   
+  }
+ 
+  .rectagle10-2{
+    position: absolute;
+    width: 135px;
+    height: 28px;
+     left: 518px;
+ top: 6446px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    display: flex;
+    justify-content: center;
+    
+  }
+ 
+  .rectagle10-3{
+    position: absolute;
+    width: 89px;
+    height: 28px;
+     left: 729px;
+    top: 6446px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    
+    line-height: 28px; 
+    
+    
+    display: flex;
+    justify-content: center;
+  
+    
+ 
+  }
+  
+ 
+  .rectagle10-4{
+    position: absolute;
+    width: 117px;
+    height: 28px;
+     left: 1095px;
+ top: 6452px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+  
+    line-height: 28px; 
+    display: flex;
+    justify-content: center;
+    
+    
+  }
+ 
+  .rectagle10-img{
+    position: absolute;
+    width: 118px;
+    height: 93px;
+    left: 901px;
+    top: 6413px;
+  }
+ 
+ .rectagle10-5{
+    position: absolute;
+    width: 94px;
+    height: 28px;
+     left: 1283px;
+    top: 6452px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    
+    line-height: 28px; 
+    display: flex;
+    justify-content: center;
+    
+    
+    
+  }
+  .rectagle10-6{
+    position: absolute;
+    width: 115px;
+    height: 28px;
+     left: 1449px;
+    top: 6452px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    
+    line-height: 28px; 
+    display: flex;
+    justify-content: center;
+    
+    
+  }
+ 
+  .line{
+    position: absolute;
+    width: 1454.5px;
+    height: 0px;
+    left: 234.5px;
+    top: 6520.5px;
+    
+    border: 1px solid #FFFFFF;
+  }
+ 
+ .fblntw{
+ position: absolute;
+ width: 46px;
+ height: 50px;
+ display: flex;
+ justify-content: center;
+ 
+ }
+ 
+ .fb{
+    position: absolute;
+ width: 46px;
+ height: 50px;
+ left: 777px;
+ top: 6570px;
+ }
+ .li{
+    position: absolute;
+ width: 46px;
+ height: 50px;
+ left: 857px;
+ top: 6568px;
+ }
+ 
+ .ins{
+    position: absolute;
+ width: 46px;
+ height: 50px;
+ left: 937px;
+ top: 6567px;
+ }
+ 
+ .tw{
+    position: absolute;
+    width: 46px;
+    height: 50px;
+    left: 1017px;
+    top: 6567px;
+    
+ }
+ 
+ .sn{
+    position: absolute;
+ width: 46px;
+ height: 50px;
+ left: 1097px;
+ top: 6567px;
+ } 
